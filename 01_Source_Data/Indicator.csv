@@ -1,0 +1,8 @@
+
+IndicatorId,IndicatorName,IndicatorCategory,Status,VariationSignal,StartDate,EndDate
+1,Appointment Wait Time,WaitTime,Stable,None,2020-01-01,
+2,Patient Satisfaction Score,Satisfaction,Stable,None,2020-01-01,
+3,Readmission Rate,Readmission,Stable,None,2020-01-01,
+4,Operating Theatre Utilization,Utilization,Stable,None,2020-01-01,
+5,Average Length of Stay,LengthStay,Stable,None,2020-01-01,
+6,Bed Occupancy Rate,Occupancy,Stable,None,2020-01-01,

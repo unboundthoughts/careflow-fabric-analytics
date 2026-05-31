@@ -1,0 +1,7 @@
+
+LocationId,LocationName,LocationType,StartDate,EndDate
+1,Central Hospital,Hospital,2020-01-01,
+2,West Clinic,Clinic,2020-01-01,
+3,East Health Centre,Health Centre,2020-01-01,
+4,North Hospital,Hospital,2020-01-01,
+5,South Clinic,Clinic,2020-01-01,

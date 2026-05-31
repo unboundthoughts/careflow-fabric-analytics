@@ -1,0 +1,8 @@
+
+ServiceId,ServiceName,ServiceCategory,StartDate,EndDate
+1,Cardiology,Medical,2020-01-01,
+2,Neurology,Medical,2020-01-01,
+3,General Surgery,Surgical,2020-01-01,
+4,Primary Care,Primary,2020-01-01,
+5,Mental Health,Mental,2020-01-01,
+6,Orthopedics,Surgical,2020-01-01,
